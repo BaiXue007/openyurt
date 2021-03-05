@@ -16,3 +16,5 @@ This document outlines the development roadmap for the OpenYurt project.
 ## v0.5.0 Roadmap
 
 It will be added after v0.4.0 released.
+
+## v0.6.0 Roadmap
